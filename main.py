@@ -1,8 +1,4 @@
-import random
-
-majibu = {
-  "hi":['hi there!', 'hello!']
-}
+from majibu import majibu
 
 def fikiria_jinsi_ya_jibu(swali):
     swali = swali.lower()
